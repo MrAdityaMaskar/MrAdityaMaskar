@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Assistant Manager in Jio Platforms Limited.<br>👯 I’m looking to collaborate on Python, Java, Django projects. <br>🌱 I’m currently learning more about System Design.<br>💬 Ask me doubts regarding Python, Java, Django.
+🔭 Assistant Manager at Jio Platforms Limited.<br>👯 I’m looking to collaborate on Python, Java, Django projects. <br>🌱 I’m currently learning more about System Design.<br>💬 Ask me doubts regarding Python, Java, Django.
 
 
 
